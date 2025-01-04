@@ -1,4 +1,4 @@
-package COM.TECHPALLE;
+package com.techpalle;
 
 import java.util.Scanner;
 
